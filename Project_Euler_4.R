@@ -16,3 +16,4 @@ for (i in 999:900) {
 answer <- i*j
 
 answer
+print("answer")
